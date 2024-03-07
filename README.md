@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My Name is Nicole, I'm a Graphic designer and Digital Illustrator.
+🌱 I’m currently learning on a Front-End Trainee bootcamp to complement my career and seek other professional paths
+I hope you guys are kind..
 <!--
 **Zhainy/zhainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
