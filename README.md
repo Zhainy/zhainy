@@ -1,71 +1,44 @@
-### <h2> Hi there 👋</h2>
-<h3>🌟 Who are you?</h3>
-<br>
-I am Nicole Fernández, a passionate graphic designer, digital illustrator, and front-end developer trainee.
+# ¡Hola! Soy Nicole 👋 ✨
 
-<h3>📍 Where are you from?</h3>
-<br>
-I am from San Pedro de la Paz, Chile.
+### Graphic Designer | Digital Illustrator | Front-End Developer Trainee
 
-<h3>💼 What do you do?</h3>
-<br>
-I currently work in graphic design and digital illustration. Additionally, I am in the process of completing my training as a front-end developer.
+Soy una apasionada de la intersección entre el **diseño visual** y la **arquitectura de software**. Actualmente, me desempeño como **Teaching Assistant** en un bootcamp de Front-End, mientras exploro las profundidades del desarrollo **Full Stack con Java**. Mi meta es crear experiencias digitales que no solo funcionen a la perfección, sino que se vean increíbles.
 
-<h3>🎓 What is your education background?</h3>
-<br>
-I graduated in Graphic Design from Duoc UC in 2015, and I am finishing a bootcamp in front-end development at Alta Experticia, Talento Digital, and SENCE.
+---
 
-<h3>🛠 What are your previous experiences?</h3>
-<br>
-Although I have no prior experience in front-end development, I have a solid background in design and illustration. I am competitive, enjoy finding solutions, learn quickly, and am perfectionistic and persistent. These qualities make me an ideal candidate for roles in the IT industry, bringing a creative and problem-solving perspective.
+### 🎨 Mi Perfil Creativo & Técnico
+* **Enfoque:** UI/UX Design, Ilustración Digital y Desarrollo Front-End modular.
+* **Proyecto Destacado:** [LukApp](https://zhainy.github.io/LukApp/) - Una billetera digital mobile-first.
+* **Formación Actual:** Estudiante de Full Stack Java (Oracle Next Education & Talento Digital).
 
-<h3>📬 How and through which channels can you be contacted?</h3>
-<br>
-<h4>You can contact me through:</h4>
-<br>
-<b>LinkedIn:</b> <a  href="https://www.linkedin.com/in/nicole-fern%C3%A1ndez-guti%C3%A9rrez-16b1237a/" target="_blank"> Perfil </a>
-<br>
-<b>Email: </b> <a href="mailto:ni.ferng@gmail.com">ni.ferng@gmail.com</a>
-<br>
-I am excited about the opportunity to contribute to innovative and challenging projects in front-end development. I look forward to connecting with you! 🌟
-____________________________________________________________________________________________________________________________________________________________
+---
 
-<h2>¡Hola! 👋</h2>
-<h3>🌟 ¿Quién eres?</h3>
-<br>
-Soy Nicole Fernández, una apasionada diseñadora gráfica, ilustradora digital y desarrolladora front end trainee.
-<h3>📍 ¿De dónde eres?</h3>
-<br>
-Soy de San Pedro de la Paz, Chile.
-<h3>💼 ¿A qué te dedicas?</h3>
-<br>
-Actualmente, me dedico al diseño gráfico y la ilustración digital. Además, estoy en proceso de completar mi formación como desarrolladora front end.
-<h3>🎓 ¿Cuál es tu formación?</h3>
-<br>
-Me titulé en Diseño Gráfico en Duoc UC en 2015 y estoy finalizando un bootcamp en desarrollo front end en Alta Experticia, Talento Digital y SENCE.
-<h3>🛠 ¿Cuáles son tus experiencias previas?</h3>
-<br>
-Aunque no tengo experiencia previa en desarrollo front end, tengo una sólida experiencia en diseño e ilustración. Soy competitiva, me gusta encontrar soluciones, aprendo rápido, soy perfeccionista y perseverante. Estas cualidades me hacen una candidata ideal para roles en la industria TI, aportando una perspectiva creativa y resolutiva.
-<h3>📬 ¿Cómo y a través de qué medios te pueden contactar?</h3>
-<br>
-<h4>Pueden contactarme a través de:</h4>
-<br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nicole-fern%C3%A1ndez-guti%C3%A9rrez-16b1237a/" target="_blank">Perfil</a>
-<br>
-<b>Email:</b> <a href="mailto:ni.ferng@gmail.com">ni.ferng@gmail.com</a>
-<br>
-Estoy entusiasmada por la oportunidad de contribuir a proyectos innovadores y desafiantes en el desarrollo front end. ¡Espero con interés conectarme con ustedes! 🌟
-<!--
-**Zhainy/zhainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Toolbox
 
-Here are some ideas to get you started:
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Front-End** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) |
+| **Back-End** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Diseño** | ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Actualmente estoy...
+* Reforzando mis habilidades en **Java** y lógica de programación Back-End.
+* Guiando a nuevos talentos como **TA en Sustantiva SPA**.
+* Buscando el balance perfecto en mi **desk setup** aesthetic. ☕️⌨️
+
+---
+
+### ✨ Conectemos
+* 💼 **LinkedIn:** [linkedin.com/in/niferng](https://www.linkedin.com/in/niferng/)
+* 🎨 **Portafolio:** ¡Próximamente! 🚀
+* 📸 **Instagram:** [@petitiatelier](https://www.instagram.com/petitiatelier/)
+
+---
+
+### 📊 Mis Lenguajes Favoritos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,vue,sass,bootstrap,java,spring,mysql,figma,ps,ai&theme=light" />
+</p>
