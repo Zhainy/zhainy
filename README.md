@@ -33,7 +33,7 @@ Soy una apasionada de la intersección entre el **diseño visual** y la **arquit
 
 ### ✨ Conectemos
 * 💼 **LinkedIn:** [linkedin.com/in/niferng](https://www.linkedin.com/in/niferng/)
-* 🎨 **Portafolio:** ¡Próximamente! 🚀
+* 🎨 **Portafolio:** [Mi Portafolio](https://zhainy.github.io/nicole-portfolio/) 🌸
 * 📸 **Instagram:** [@petitiatelier](https://www.instagram.com/petitiatelier/)
 
 ---
